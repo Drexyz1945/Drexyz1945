@@ -16,4 +16,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
-<img src="https://cdn.discordapp.com/attachments/1239907474425774110/1372186048779653292/image.png?ex=6825db58&is=682489d8&hm=ae80592026eb166f7a0b65026d724869383ca959076c97e05545d076aca58f4d&" width="40" alt="someimage"/>
+<img src="https://cdn.discordapp.com/attachments/1239907474425774110/1372186048779653292/image.png?ex=6825db58&is=682489d8&hm=ae80592026eb166f7a0b65026d724869383ca959076c97e05545d076aca58f4d&" height="40" alt="someimage"/>
